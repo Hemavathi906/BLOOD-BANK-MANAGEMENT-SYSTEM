@@ -1,0 +1,31 @@
+
+header{
+    padding: 20px;
+    color: red;
+}
+.navbar{
+    background-color: red;
+    padding: 20px;
+    align-items: center;
+    display: flex;
+    align-items: right;
+    text-align: right;
+}
+a{
+    align-items: right;
+    padding: 15px;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10px;
+    color: black;
+    text-align: right;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-color:burlywood;
+}
+p{
+    font-size: 20px;
+}
